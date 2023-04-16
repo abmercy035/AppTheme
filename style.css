@@ -419,6 +419,14 @@ footer .footer-text {
   font-size: 12px;
  }
 
+ main #features .features-title {
+  font-size: large;
+ }
+
+ main #features .features-title span {
+  font-size: x-small;
+ }
+
  main #features .features-list {
   grid-template-columns: 1fr;
   place-items: center;
@@ -444,5 +452,4 @@ footer .footer-text {
   padding: 20px 0;
   flex-direction: column;
  }
-
 }
