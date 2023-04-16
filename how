@@ -1,0 +1,69 @@
+[33mcommit 059a6cd03954e59508c406c9d367a3e41234c7f6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Thu Apr 13 21:38:21 2023 +0100
+
+    adding all files
+
+[33mcommit 03549b42bc510b5629c269f6c8a98ff6b90ab85b[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Thu Apr 13 21:37:38 2023 +0100
+
+    style
+    
+    clean and remove style repetattions and non-useful styles
+
+[33mcommit f1bab52a46a4e2c780f6d289f6945b7c5774bf5a[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Thu Apr 13 21:04:32 2023 +0100
+
+    fix
+    
+    Changed the headings of the features section to the corresponding text
+
+[33mcommit 7f4a3280f00229262c5ba938c5d235e8876083a4[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Thu Apr 13 21:00:59 2023 +0100
+
+    minor
+    
+    removed the script code in the index file and moved it to the main.js file
+
+[33mcommit 58c245d929bfa203a3352f73a1e06abd724e9f46[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Thu Apr 13 20:56:25 2023 +0100
+
+    minor
+    
+    nothing much changed just removed some unneccesary tags at subscribe form
+    
+    fix
+    
+    added the corresponing id's to the section referring to the nav links and also created he aside nav bar
+    
+    feats
+    
+    created the script tag and the body bottom and also added the toggling functions to the icons
+
+[33mcommit 21ef143b1085fd7d54009651d070e7f0d2e5a509[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Thu Apr 13 20:51:31 2023 +0100
+
+    brought in some background images and icons for the site background and icons for menu toggling, completely styled the site and also changed the icons color from black to royalblue
+
+[33mcommit aca3cc4c09467698ce2e07f6be146b5766ed54cc[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Wed Apr 12 03:52:13 2023 +0100
+
+    creaed the icon folder and added all needed icons
+
+[33mcommit 8a04b444a8bd9c9bff4a8c4db389887375b82a9f[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Wed Apr 12 01:39:41 2023 +0100
+
+    wrote all the markup needed
+
+[33mcommit 663c465736a3a99940aa122323a7afdcb96d08fe[m
+Author: Javascript Enthusiast <abmercy035@gmail.com>
+Date:   Wed Apr 12 01:03:57 2023 +0100
+
+    create index, style and main file
